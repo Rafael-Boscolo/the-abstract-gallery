@@ -10,4 +10,4 @@ Este é um projeto web desenvolvido para mostrar uma estilização em imagem em 
 Projeto desenvolvido é uma galeria de fotos web, com geração de foto aleátoria sem perca de resolução
 
 ## Link
-[Link]()
+[The Abstract Gallery](https://rafael-boscolo.github.io/the-abstract-gallery/)
